@@ -1,7 +1,7 @@
 ## Next.js 16 + shadcn/ui Starter
 
 <p align="center">
-  <img src="./public/next.svg" alt="Next.js Logo" height="40" style="filter: invert(1);" />
+  <img src="./public/next.svg" alt="Next.js Logo" height="40" />
   &nbsp;&nbsp;
   <img src="./public/globe.svg" alt="App Logo" height="40" />
 </p>
