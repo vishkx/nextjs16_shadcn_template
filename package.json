@@ -18,12 +18,12 @@
     "embla-carousel-react": "^8.6.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.561.0",
-    "next": "16.0.10",
+    "next": "16.1.0",
     "next-themes": "^0.4.6",
     "radix-ui": "^1.4.3",
-    "react": "19.2.1",
+    "react": "19.2.3",
     "react-day-picker": "^9.12.0",
-    "react-dom": "19.2.1",
+    "react-dom": "19.2.3",
     "react-resizable-panels": "^3.0.6",
     "recharts": "2.15.4",
     "shadcn": "^3.6.2",
@@ -35,12 +35,16 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
     "babel-plugin-react-compiler": "^1.0.0",
     "eslint": "^9",
-    "eslint-config-next": "16.0.10",
+    "eslint-config-next": "16.1.0",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "overrides": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3"
   }
 }
